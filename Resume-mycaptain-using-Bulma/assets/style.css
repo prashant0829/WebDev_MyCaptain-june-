@@ -1,0 +1,12 @@
+body {
+  background-image: url(../assets/background-image/2.jpg);
+}
+head {
+  background-image: url(../assets/background-image/2.jpg);
+}
+.is-content-left {
+  text-align: left;
+}
+.pad {
+  margin-left: 10px;
+}
