@@ -1,1 +1,1 @@
-## 1.Make a registration form and dont forget to style it .
+## 1.Make a registration form by and dont forget to style it .

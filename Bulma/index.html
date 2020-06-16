@@ -6,30 +6,36 @@
     <title>Bulma</title>
     <link
       rel="stylesheet"
-      href="https://cdn.jsdelivr.net/npm/bulma@0.9.0/css/bulma.min.css"
+      href="https://cdn.jsdelivr.net/npm/bulma@0.8.0/css/bulma.min.css"
     />
+
+    <style>
+      button {
+        margin-top: 12px;
+      }
+    </style>
   </head>
   <body>
-    <!-- before applying bulma class and modifiers -->
-    <button class="button">Click here</button>
-    <!-- after applying bulma class and modifiers -->
+    <center>
+      <!-- before applying bulma class and modifiers -->
+      <button class="button">Click here</button>
+      <!-- after applying bulma class and modifiers -->
 
-    <!-- **is-large is-success is-rounded**  modifiers   -->
-    <!-- modifiers : They all start with is-* or has-*, and then you replace the * with the style you want. -->
-    <button class="button **is-large is-success is-rounded**">
-      Click here
-    </button>
+      <!-- **is-large is-success is-rounded**  modifiers   -->
+      <!-- modifiers : They all start with is-* or has-*, and then you replace the * with the style you want. -->
+      <button class="button **is-large is-success is-rounded**">
+        I am having different modifiers
+      </button>
 
-    <!-- after applying class is-focused -->
-    <button class="button **is-large is-success is-rounded** is-focused">
-      Click here
-    </button>
-    <!--after applying class has-text-bold  -->
+      <!-- after applying class is-focused -->
+      <button class="button **is-large is-success is-rounded** is-focused">
+        I am having is-focused modifiers
+      </button>
+      <!--after applying class has-text-bold  -->
 
-    <button
-      class="button **is-large is-success is-rounded** is-focused has-text-weight-bold"
-    >
-      Click here
-    </button>
+      <button class="button is-success is-rounded**has-text-weight-bold">
+        I am having has-text-weight-bold modifiers
+      </button>
+    </center>
   </body>
 </html>

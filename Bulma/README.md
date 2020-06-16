@@ -1,24 +1,6 @@
-# Introduction to HTML &amp; CSS
+# Introduction to Bulma
 
 ## Topics of the day.
-
-1. Introduction to the web(languages on which mostly all website rely on).
-2. Difference between HTML, CSS & JavaScript.
-3. Introduction to HTML.
-4. Elements, Tags, Attributes.
-5. Setting up standard HTML Document structure(doctype, html, head, body).
-6. Self Closing Elements
-7. Nesting and Indentation
-8. Introduction to CSS.
-9. Selectors, Properties, Values
-10. Types of Selectors(Type, Class, ID).
-11. Referencing CSS.
-12. Semantic overview
-13. Non Semantic tags
-14. Block vs Inline (div, span)
-15. Text-based elements.
-16. Creating hyperlinks (Relative & Absolute Paths, Linking to an Email Address, Opening Links in a New Window, Linking to Parts of the Same Page)
-17. Building structure with semantic tags (header, nav, article, section, aside, footer, etc.)
 
 ## what is bulma ?
 
@@ -118,3 +100,7 @@ At the core of any CSS framework is how they solve columns, as that’s relevant
 And that’s it!
 
 ## Awesome now you have got a basic taste of how bulma woirks
+
+## homework
+
+## 1.Make a registration form using bulma .
