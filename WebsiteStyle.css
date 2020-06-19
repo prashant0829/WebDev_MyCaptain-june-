@@ -1,0 +1,16 @@
+body.home{
+    background-color: rgb(245, 222, 225);
+}
+body.about{
+    background-color: rgb(197, 238, 241);
+}
+body.contact{
+    background-color: rgb(245, 196, 242);
+}
+.heading{
+    font-family: 'Times New Roman', Times, serif;
+
+}
+p{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
